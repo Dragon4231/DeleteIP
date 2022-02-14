@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteIP", "DeleteIP\DeleteIP.vcxproj", "{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Debug|x64.ActiveCfg = Debug|x64
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Debug|x64.Build.0 = Debug|x64
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Debug|x86.Build.0 = Debug|Win32
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Release|x64.ActiveCfg = Release|x64
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Release|x64.Build.0 = Release|x64
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Release|x86.ActiveCfg = Release|Win32
+		{348DCF7A-3ECC-4773-B1BC-E7C91DB985AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5B41C9-3ADA-4ED2-A551-CB265538AA81}
+	EndGlobalSection
+EndGlobal
